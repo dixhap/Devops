@@ -6,7 +6,7 @@ var webdriver = require('webdriverio'),
 // var driver = new webdriver.Builder()
 //    .forBrowser('chrome')
 //    .build();
-
+#added a comment
 
 client = webdriver.remote({ desiredCapabilities: {browserName: 'firefox'} });
 console.log('here')
