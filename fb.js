@@ -1,4 +1,4 @@
-var webdriver = require('webdriverio'),
+#var webdriver = require('webdriverio'),
 // chrome = require('chromedriver'),
 //    By = require('selenium-webdriver').By,
 //    until = require('selenium-webdriver').until;
@@ -17,13 +17,13 @@ client.init()
       .click('#pass')
       .keys('')
       .click('input#u_0_w')    /*  click for login */
-      
+
       .click('div._1k67._4q39') /* click for profile */
 
       //.click('a._39g5')
 
       //.click('span._50f5_5kx5')
-      
+
       //.click('div#u_0_g')  /* click on message box */
 
       //.click('div#MercuryJewelFooter')   /* click on see all */
