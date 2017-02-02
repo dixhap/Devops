@@ -1,5 +1,5 @@
 #var webdriver = require('webdriverio'),
-// chrome = require('chromedriver'),
+chrome = require('chromedriver'),
 //    By = require('selenium-webdriver').By,
 //    until = require('selenium-webdriver').until;
 //
